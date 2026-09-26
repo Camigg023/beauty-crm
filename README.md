@@ -5,23 +5,23 @@ CRM para la gestión de clientes, productos, ventas e inventario de una tienda d
 -- TECNOLOGÍAS UTILIZADAS --
 
 Frontend:
-React: interfaz de usuario.
-Vite: creación y ejecución del proyecto.
-Tailwind CSS: estilos.
+* React: interfaz de usuario.
+* Vite: creación y ejecución del proyecto.
+* Tailwind CSS: estilos.
 
 Backend:
 
-Node.js: entorno de ejecución.
-Express.js: creación de API y manejo de solicitudes.
-Prisma: comunicación con la base de datos.
+* Node.js: entorno de ejecución.
+* Express.js: creación de API y manejo de solicitudes.
+* Prisma: comunicación con la base de datos.
 
 Base de datos:
 
-MySQL: almacenamiento de información.
+* MySQL: almacenamiento de información.
 
 Herramientas:
 
-Git y GitHub: control de versiones y trabajo colaborativo.
+* Git y GitHub: control de versiones y trabajo colaborativo.
 
 -- FUNCIONALIDADES --
 * Gestión de clientes y productos.
@@ -39,10 +39,10 @@ Productos:
 * Blush
 
 -- REQUISITOS --
-Node.js 18 o superior: node --version
-npm: npm --version
-MySQL: mysql --version
-Git: git --version
+* Node.js 18 o superior: node --version
+* npm: npm --version
+* MySQL: mysql --version
+* Git: git --version
 
 ** Crea el archivo .env en backend/ a partir de .env.example y completa las variables locales **
 ** Configura la conexión a MySQL **
